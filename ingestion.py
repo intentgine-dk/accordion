@@ -13,13 +13,13 @@ def run_delivered_leads(g_auth, gdrive_dir, process_date):
     
     # Download files
     for raw_file in raw_files:
-        '''
+        
         try:
             gdrive.dl_file_name(g_auth, directory_id, raw_file)
         except Exception as e:
             print(e)
             pass
-        '''
+        
         # Get Campaign ID
         if gdrive_dir = 'TEST':
             campaign_id = str.replace('{', '').split(' ')[0]
