@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "ingestion-automation",
+    "private_key_id": "528dff142445efe2fc60f04b2c5ea37890be6056",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXXaZSBS5H/JUt\nIHxCUhRuaHIqpjoldHuKyD3lZ12HCsMSVNtWjHcFKIJmtJXF4mbEA6bIVoSwktGN\n9qnpyI2+U17Mh01HrU90uaUKtPwG3iOgYlY5Ob5uS3U23PQ2If3WdQyJHgW/2VEP\n1RjaQW1KO1ltoD4QnkYgY4DYm7gaHiMWe3//wFEIk1BIKv7r38RHFW2gAjdRd+TU\nirRp5MZOqeMYc06At2JOaDCfa8XaBjbKbz0us5Xcyxrn59e+Q3U+84sZa16bNrbp\nRAjtDIksMsNlMKsFBNC/ox1iI2KLG0A9marNaUIQbnwl1Sa6K4BP/5ltSXNwA7qr\nkrDAioghAgMBAAECggEACZ5eIkWm9oIaa4SK6C9gSDoT90GrUSbtqZod4ZQHQlPB\nuJzfmvL1Ed7oTAv+sHLXIiQDm+j5TiWQhGWi2xUg94IjtsDIO85KwSzVaTACHZBo\nSO57aVzh2201U/j0U0KbYquhnrIfkZz0GN/slzra1bjm2pWQkA9xlFq9U29I/qmK\n6GAdvbTyVCD8YVgzQ/T4oj4nTg8ugMzsUS89wRM72W4kShYULSlhLvCfMMEXXW1t\nqjQoz+jwb+RrhhXL7FSoJun/CtgOMv60pXdfYHflU88iVIIYV/agw1wYFFIX3cGl\nAL3fd0pTY2lc17kMK9eWgiz+HnlGvYdAnTHGw9mdLQKBgQD36MUPlL/Fjz/R1/nH\nW1M8+xVjIDHUu5L2mXUX0IWHIK5hkDAxl5dhQw7n57jK8ZZEupOmMvKVvJqvH29+\nVSQxkc+XsJpjPwkGWZVeLxJCQKZ0eTrmh2maSMNHmwDDKKvlVWTC5LPGH/aIh28i\nN76jcG1DwTJsJ9VgvBJviwjw8wKBgQDeZPx8VAbtKXI8YDk1zToAJmkI0aKuVCxg\nW9Vrl8x+Lmun/tPtIrarkQHPo0vD2Wl3H4dc5yJ9Yqwki5Gf+yHYks0xWKCcooGC\nXdPaEp3ZGBz1IUY+wb3Is39p/SvgjniPQ0PX+gtmRZcnNq2+z+/v34cdIZqNSkfg\nrLvR0M4HmwKBgQCDBc3orzgvpMcZE+maWIUErLsf+ar8gOpqVK6TGI0J3tbrD3a5\nLyI9sGBXZpu+/rHpvyY7559YTib+uUGG5l7LqAGsbRUbsPwHFB+ieIRQ6bRPyKa9\nogHJHf2/gYeEnaFEAr7PVmpBIzF79QBieE3UOZ41+gy5JtBaYOvpcfUWywKBgQCk\nTlHn/SCc6WkXyDOcV0KJx9cEB/W7/D5I9rAn7J/NfbhWBsRGR8ZT3S9MW6XnTWJI\n+0dD0RQ/NL5fxanSW3T3EAZ/da476yfpzC5vyB9MvC7wwCOoy/TOKidxg/V902So\n25ZtI7R2W+W/t/sHpZLsUuX9FM2do4qVKKke67i8DwKBgFBe3aHpSO46l1TjKUNN\ntsYLzJ0TBZv2nnEy3lmxPN7cf863x+n19aRYjfIvlIpl1YjqCms5tCmVCLMyuy0g\naO16kaA4bJW9j7vs1FXJM3BSxkLMFNkq+qIU2Mqv1vBxEbpgq1tBLCFG2Etwl7+n\nQZv7EdLE2XlU3xy75vQznkvG\n-----END PRIVATE KEY-----\n",
+    "client_email": "spreadsheet-reader@ingestion-automation.iam.gserviceaccount.com",
+    "client_id": "106662257212678076265",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spreadsheet-reader%40ingestion-automation.iam.gserviceaccount.com"
+  }
+  
