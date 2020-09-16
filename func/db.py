@@ -21,7 +21,7 @@ def config_parser(conf, section):
 def db_connect(section):
     db_conf = os.getcwd() + "\\files\\db\\" + "conf.ini"
     db_param = config_parser(db_conf, section)
-    connection_str = "mysql+pymysql://{0}:{1}@{2}/{3}".format(
+    connection_str = "postgresql://{0}:{1}@{2}/{3}".format(
         db_param['user'], db_param['password'], db_param['host'], db_param['database']
         )
     engine = create_engine(connection_str)
@@ -45,8 +45,8 @@ def rds_connect(section):
 
     return cursor, connection
 
-def load_directory(section):
-    conf = os.getcwd() + "\\files\\db\\" + "conf.ini"
+def load_conf(section):
+    conf = os.getcwd() + "\\files\\drive\\" + "conf.ini"
     param = config_parser(conf, section)
 
     return param
